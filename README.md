@@ -4,7 +4,9 @@ Welcome to my profile.
 - To contact me, message `@forwarduntodawn.` on Discord.
 
 ###### Main languages:
-HTML, JavaScript, Java
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyyview&show_icons=true&count_private=true&theme=dark)
 
