@@ -1,7 +1,7 @@
 # Greyview
 
 Welcome to my profile.
-- To contact me, send an email to `greyyview@gmail.com`.
+- To contact me, send an email to `greyyview@gmail.com`
   - Alternatively, message `@forwarduntodawn.` on Discord.
 
 ###### Main languages:
